@@ -1,6 +1,6 @@
 # Intro to Machine Learning Nanodegree
 # Projects
-# Project 1: Supervised Learning - https://github.com/Adi-19/Finding-Donors-For-Charity-ML-master
+# Project 1: Supervised Learning - <a href="https://github.com/Adi-19/Finding-Donors-For-Charity-ML-master"> Finding Donors</a>
 
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML has brought you on board to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. Your goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
@@ -14,7 +14,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 8. Performed feature selection to get the most important features and re-trained the model
 9. Examined effects of feature selection by comparing the model with reduced features and optimized model
 
-# Project 2: Deep Learning - https://github.com/Adi-19/Image_Classifier
+# Project 2: Deep Learning - <a href="https://github.com/Adi-19/Image_Classifier"> Image_Classifier</a>
 
 Developed an image classifier with PyTorch, then converted it into a command line application.
 
@@ -30,7 +30,8 @@ Developed an image classifier with PyTorch, then converted it into a command lin
 10. Visually displayed images to ensure preprocessing was successful
 11. Predicted the class/label of an image using the trained model and plotted top 5 classes to ensure the validity of the prediction
 
-# Project 3: Unsupervised Learning - https://github.com/Adi-19/Identify-Customer-Segments
+# Project 3: Unsupervised Learning - <a href="https://github.com/Adi-19/Identify-Customer-Segments"> Identify-Customer-Segments</a>
+
 
 Applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that I used has been provided by Udacity's partners at Bertelsmann Arvato Analytics and represents a real-life data science task.
 
