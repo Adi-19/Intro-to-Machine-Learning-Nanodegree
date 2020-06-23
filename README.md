@@ -49,4 +49,3 @@ Applied unsupervised learning techniques to identify segments of the population 
 12. Compared customer demographic to the general population to see where the strongest customer base for the company is
 13. Discovered ~200 features of people that are a suitable target audience for the company (also discovered 4 groups/clusters of people that aren't a suitable target audience       for the company)
 
-[ML certificate.pdf](https://github.com/Adi-19/Intro-to-Machine-Learning-Nanodegree/files/4821638/ML.certificate.pdf)
